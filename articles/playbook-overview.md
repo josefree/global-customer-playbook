@@ -31,6 +31,7 @@ The Global Customer Migration Center consists of two parts:
 
 Both the Global Customer Playbook and the Migration Assistant will continue to be updated with more migration scenarios and design patterns, with the intention of staying aligned with the ever-changing customer needs and the new service landing status of China Azure.
 
+## Navigating the Playbook
 
 This playbook is designed for [Target Personas](), and is structured along the different stages of the [Migration Lifecycle](), you are recommend to understand the [Structure of the Playbook]() before you start navigate and read the playbook.
 
