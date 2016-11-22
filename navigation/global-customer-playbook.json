@@ -1,0 +1,460 @@
+﻿{
+  "id": "left_nav_top_level_virtual-machines-linux",
+  "service": "Linux 虚拟机",
+  "navigation": [
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_0",
+      "group": "入门",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_0_0",
+          "link": "/documentation/articles/virtual-machines-linux-quick-create-portal/",
+          "title": "使用 Azure 门户预览创建 Linux VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_0_1",
+          "link": "/documentation/articles/virtual-machines-linux-quick-create-cli/",
+          "title": "使用 CLI 创建 Linux VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_0_2",
+          "link": "/documentation/articles/virtual-machines-linux-list/",
+          "title": "支持的虚拟机列表"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Get-Started_Azure-IaaS-users-manual",
+          "link": "/documentation/articles/azure-Iaas-user-manual-part1/",
+          "title": "Azure IaaS 用户手册"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_1",
+      "group": "设置",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_1_0",
+          "link": "/pricing/1rmb-trial/",
+          "title": "1元试用 1 个月"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_1_1",
+          "link": "/documentation/articles/xplat-cli-install/",
+          "title": "安装 Azure CLI"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Settings_Creating-SSH-keys-on-Linux-and-Mac",
+          "link": "/documentation/articles/virtual-machines-linux-mac-create-ssh-keys/",
+          "title": "在 Linux 和 Mac 上创建 SSH 密钥"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_2",
+      "group": "教程",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Using-Azure-templates-to-create-VM",
+          "link": "/documentation/articles/virtual-machines-linux-create-ssh-secured-vm-from-template/",
+          "title": "使用 Azure 模板创建 VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_2_1",
+          "link": "/documentation/articles/virtual-machines-linux-create-cli-complete/",
+          "title": "在自定义环境下创建 VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Set-the-zoom-using-the-zoom-multiple-VM",
+          "link": "/documentation/articles/virtual-machines-linux-cli-vmss-create/",
+          "title": "使用缩放集缩放多个 VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_2_0",
+          "link": "/documentation/articles/virtual-machines-linux-add-disk/",
+          "title": "向 VM 添加磁盘"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Additional-data-disk-in-the-Azure-Portal",
+          "link": "/documentation/articles/virtual-machines-linux-attach-disk-portal/",
+          "title": "在 Azure 门户预览中附加数据磁盘"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Error-opening-port-",
+          "link": "/documentation/articles/virtual-machines-linux-nsg-quickstart/",
+          "title": "打开端口和终结点"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Select-CLI-Linux-VM-image",
+          "link": "/documentation/articles/virtual-machines-linux-cli-ps-findimage/",
+          "title": "使用 Azure CLI 来选择 Linux 虚拟机映像"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Use-cloud-init",
+          "link": "/documentation/articles/virtual-machines-linux-using-cloud-init/",
+          "title": "使用 cloud-init"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Management-of-replacement-SSH-access-user-and-check-disk",
+          "link": "/documentation/articles/virtual-machines-linux-using-vmaccess-extension/",
+          "title": "重置 SSH 访问权限、管理用户和检查磁盘"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Tutorial_Create-and-deploy-complex-VM-Templates",
+          "link": "/documentation/articles/virtual-machines-linux-dotnet-core-1-landing/",
+          "title": "创建并部署复杂 VM 模板"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_3",
+      "group": "概念",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_3_0",
+          "link": "/documentation/articles/virtual-machines-linux-azure-overview/",
+          "title": "Azure 和 Linux"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_3_4",
+          "link": "/documentation/articles/virtual-machines-linux-sizes/",
+          "title": "虚拟机的大小"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Overview_Manage-virtual-machine-availability",
+          "link": "/documentation/articles/virtual-machines-linux-manage-availability/",
+          "title": "管理虚拟机的可用性"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Overview_Different-way-to-create-virtual-machines",
+          "link": "/documentation/articles/virtual-machines-linux-creation-choices/",
+          "title": "创建虚拟机的不同方式"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_3_2",
+          "link": "/documentation/articles/virtual-machines-linux-endorsed-distros/",
+          "title": "Azure 认可分发版中的 Linux"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Overview_Information-about-authorized-distribution",
+          "link": "/documentation/articles/virtual-machines-linux-create-upload-generic/",
+          "title": "关于未认可分发的信息"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Concept_VM-size-set-overview",
+          "link": "/documentation/articles/virtual-machine-scale-sets-overview/",
+          "title": "虚拟机规模集概述"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_3_1",
+          "link": "/documentation/articles/virtual-machines-linux-use-root-privileges/",
+          "title": "使用 Linux 虚拟机的根权限"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_4",
+      "group": "规划",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_4_1",
+          "link": "/documentation/articles/virtual-machines-linux-planned-maintenance/",
+          "title": "VM 的计划内维护"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_4_2",
+          "link": "/documentation/articles/virtual-machines-linux-planned-maintenance-schedule/",
+          "title": "VM 的计划内维护安排"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_Subscription-and-account",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-subscription-accounts-guidelines/",
+          "title": "订阅和帐户"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_Name",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-naming-guidelines/",
+          "title": "命名"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_Resource-Group",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-resource-groups-guidelines/",
+          "title": "资源组"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_Storage",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-storage-solutions-guidelines/",
+          "title": "存储"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_Network",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-networking-guidelines/",
+          "title": "联网"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_AVAILABILITY",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-availability-sets-guidelines/",
+          "title": "可用性"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_virtual-machine",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-virtual-machine-guidelines/",
+          "title": "虚拟机"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Planning_Infrastructure-examples",
+          "link": "/documentation/articles/virtual-machines-linux-infrastructure-example/",
+          "title": "基础结构示例"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_5",
+      "group": "部署",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_0",
+          "link": "/documentation/articles/virtual-machines-linux-app-frameworks/",
+          "title": "使用 Azure 模板部署热门应用程序框架"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_1",
+          "link": "/documentation/articles/virtual-machines-linux-agent-user-guide/",
+          "title": "Azure Linux 代理用户指南"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_2",
+          "link": "/documentation/articles/virtual-machines-linux-copy-vm/",
+          "title": "复制 Azure VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_deployment_Capture-VM",
+          "link": "/documentation/articles/virtual-machines-linux-capture-image/",
+          "title": "捕获 VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_deployment_Using-Azure-deployment-template-and-CLI-VM",
+          "link": "/documentation/articles/virtual-machines-linux-cli-deploy-templates/",
+          "title": "使用 Azure 模板和 CLI 部署 VM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_3",
+          "link": "/documentation/articles/virtual-machines-linux-debian-create-upload-vhd/",
+          "title": "为 Azure 准备 Debian VHD"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_4",
+          "link": "/documentation/articles/virtual-machines-linux-redhat-create-upload-vhd/",
+          "title": "为 Azure 准备基于 Red Hat 的虚拟机"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_5",
+          "link": "/documentation/articles/virtual-machines-linux-create-upload-centos/",
+          "title": "为 Azure 准备基于 CentOS 的虚拟机"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_6",
+          "link": "/documentation/articles/virtual-machines-linux-create-upload-ubuntu/",
+          "title": "为 Azure 准备 Ubuntu 虚拟机"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_5_7",
+          "link": "/documentation/articles/virtual-machines-linux-prepare-oracle/",
+          "title": "为 Azure 准备 Oracle Linux 虚拟机"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_Management",
+      "group": "管理",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Management_Enable-or-disable-a-Linux-VM-monitor",
+          "link": "/documentation/articles/virtual-machines-linux-vm-monitoring/",
+          "title": "启用或禁用 Linux VM 监视"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Management_Linux-VM-using-a-unique-ID",
+          "link": "/documentation/articles/virtual-machines-linux-unique-vm-id/",
+          "title": "为 Linux VM 使用独特的 ID"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_VM-extension",
+      "group": "VM 扩展",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_VM-extension_VM-Extension-Overview",
+          "link": "/documentation/articles/virtual-machines-linux-extensions-features/",
+          "title": "VM 扩展概述"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_VM-extension_Custom-Script",
+          "link": "/documentation/articles/virtual-machines-linux-extensions-customscript/",
+          "title": "自定义脚本扩展"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_VM-extension_Template-expansion",
+          "link": "/documentation/articles/virtual-machines-linux-extensions-authoring-templates/",
+          "title": "模板中的扩展"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_VM-extension_Configuration-example",
+          "link": "/documentation/articles/virtual-machines-linux-extensions-configuration-samples/",
+          "title": "配置示例"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_VM-extension_TROUBLESHOOTING",
+          "link": "/documentation/articles/virtual-machines-linux-extensions-troubleshoot/",
+          "title": "故障排除"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_Azure-resources",
+      "group": "Azure 资源",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Azure-resources_How-to-tag-in-Azure-VM",
+          "link": "/documentation/articles/virtual-machines-linux-tag/",
+          "title": "如何在 Azure 中标记 VM"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_6",
+      "group": "存储",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_6_0",
+          "link": "/documentation/articles/virtual-machines-linux-about-disks-vhds/",
+          "title": "关于 VM 的磁盘和 VHD"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_6_1",
+          "link": "/documentation/articles/storage-azure-cli/",
+          "title": "Azure 存储空间和 Azure CLI"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_6_2",
+          "link": "/documentation/articles/virtual-machines-linux-configure-raid/",
+          "title": "在 Linux 上配置软件 RAID"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Storage_Configuring-LVM",
+          "link": "/documentation/articles/virtual-machines-linux-configure-lvm/",
+          "title": "配置 LVM"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_6_3",
+          "link": "/documentation/articles/storage-how-to-use-files-linux/",
+          "title": "使用 Azure 文件"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_7",
+      "group": "联网",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_7_0",
+          "link": "/documentation/articles/virtual-networks-overview/",
+          "title": "虚拟网络概述"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Network_Using-Azure-CLI-creates-VNET",
+          "link": "/documentation/articles/virtual-networks-create-vnet-arm-cli/",
+          "title": "使用 Azure CLI 创建 VNET"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Network_Created-using-the-Azure-CLI-NSG",
+          "link": "/documentation/articles/virtual-networks-create-nsg-arm-cli/",
+          "title": "使用 Azure CLI 创建 NSG"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Network_Using-Azure-creates-user-defined-route-CLI",
+          "link": "/documentation/articles/virtual-network-create-udr-arm-cli/",
+          "title": "使用 Azure CLI 创建用户定义的路由"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Network_In-the-Azure-portal-to-create-the-fully-qualified-domain-name",
+          "link": "/documentation/articles/virtual-machines-linux-portal-create-fqdn/",
+          "title": "在 Azure 门户中创建完全限定的域名"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_Network_Create-a-load-balancer",
+          "link": "/documentation/articles/load-balancer-get-started-internet-arm-ps/",
+          "title": "创建负载均衡器"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_8",
+      "group": "故障排除",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_8_0",
+          "link": "/documentation/articles/virtual-machines-linux-troubleshoot-ssh-connection/",
+          "title": "Secure Shell (SSH) 与基于 Linux 的 VM 之间的连接疑难解答"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_8_1",
+          "link": "/documentation/articles/virtual-machines-linux-troubleshoot-app-connection/",
+          "title": "应用程序访问疑难解答"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_TROUBLESHOOTING_Troubleshooting-failed-Azure-VM-extensions",
+          "link": "/documentation/articles/virtual-machines-linux-extensions-troubleshoot/",
+          "title": "排除 Azure VM 扩展故障"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_8_2",
+          "link": "/documentation/articles/virtual-machines-linux-allocation-failure/",
+          "title": "排除分配故障"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_9",
+      "group": "参考",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_9_0",
+          "link": "/documentation/articles/azure-cli-arm-commands/",
+          "title": "CLI"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_9_1",
+          "link": "https://msdn.microsoft.com/zh-cn/library/mt163647.aspx",
+          "title": "计算 REST API"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_9_2",
+          "link": "https://msdn.microsoft.com/zh-cn/library/mt163658.aspx",
+          "title": "网络 REST API"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_9_3",
+          "link": "https://msdn.microsoft.com/zh-cn/library/dd179355.aspx",
+          "title": "存储 REST API"
+        },
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_References_Community-templates",
+          "link": "https://github.com/Azure/azure-quickstart-templates/",
+          "title": "社区模板"
+        }
+      ]
+    },
+    {
+      "id": "left_nav_first_level_virtual-machines-linux_VM-classic-",
+      "group": "VM（经典）",
+      "articles": [
+        {
+          "id": "left_nav_second_level_virtual-machines-linux_VM-classic-_Contents",
+          "link": "/documentation/articles/virtual-machines-linux-opensource-links/",
+          "title": "目录"
+        }
+      ]
+    }
+  ]
+}
