@@ -1,0 +1,57 @@
+[
+  {
+    "service": "global-customer-playbook",
+    "title": "Migration Playbook",
+    "link": "/solutions/global-customer/playbook-overview/"
+  },
+  {
+    "service": "migration-lifecycle-envisioning",
+    "title": "Migration Playbook",
+    "link": "/solutions/global-customer/playbook-overview/",
+	"child": {
+			"service": "migration-lifecycle-envisioning",
+			"title": "Envisioning Stage",
+			"link": "/solutions/global-customer/envisioning/explore/policies/"
+	}
+  },
+  {
+    "service": "migration-lifecycle-planning",
+    "title": "Migration Playbook",
+    "link": "/solutions/global-customer/playbook-overview/",
+	"child": {
+			"service": "migration-lifecycle-planning",
+			"title": "Planning Stage",
+			"link": "/solutions/global-customer/planning/explore/policies/"
+	}
+  },
+  {
+    "service": "migration-lifecycle-onboarding",
+    "title": "Migration Playbook",
+    "link": "/solutions/global-customer/playbook-overview/",
+	"child": {
+			"service": "migration-lifecycle-onboarding",
+			"title": "Onboarding Stage",
+			"link": "/solutions/global-customer/onboarding/explore/policies/"
+	}
+  },
+  {
+    "service": "migration-lifecycle-optimizing",
+    "title": "Migration Playbook",
+    "link": "/solutions/global-customer/playbook-overview/",
+	"child": {
+			"service": "migration-lifecycle-optimizing",
+			"title": "Optimizing Stage",
+			"link": "/solutions/global-customer/optimizing/explore/policies/"
+	}
+  },
+  {
+    "service": "migration-lifecycle-operating-and-supporting",
+    "title": "Migration Playbook",
+    "link": "/solutions/global-customer/playbook-overview/",
+	"child": {
+			"service": "migration-lifecycle-operating-and-supporting",
+			"title": "Operating and Supporting Stage",
+			"link": "/solutions/global-customer/operating-and-supporting/explore/policies/"
+	}
+  }
+]
