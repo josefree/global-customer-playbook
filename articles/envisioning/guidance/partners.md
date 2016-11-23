@@ -1,6 +1,29 @@
-#Partners#
+<properties
+	pageTitle="Global Customer Playbook envisioning-guidance-partners"
+	description="Global Customer Playbook envisioning-guidance-partners"
+	services="global-customer-playbook"
+	documentationCenter=""
+	authors="jtong"
+	manager="edwinc"
+	editor=""
+	tags="global-customer-playbook"/>
 
-##Cloud Operating Model and Partner##
+<tags
+	ms.service="global-customer-playbook"
+	ms.workload=""
+	ms.tgt_pltfrm=""
+	ms.devlang="na"
+	ms.topic="article"
+	ms.date="11/21/2016"
+	wacn.date="11/21/2016"
+	ms.author="jtong"/>
+
+
+# Envisioning Guidance - Partners
+
+[AZURE.INCLUDE [header](../envisioning-guidance.md)]
+
+## Cloud Operating Model and Partner
 
 
 China Azure, also referred to as Mooncake, has a different operating model. It is not operated by Microsoft, and is independently operated by our partner [21Vianet](http://www.ch.21vianet.com/) in mainland China. The Azure technologies that Microsoft uses to serve other parts of the world have been licensed to 21Vianet, so that Microsoft Azure, operated by 21Vianet, can provide globally consistent service quality for customers.
@@ -12,4 +35,6 @@ From a support standpoint, 21Vianet provides first line support to customers, an
 For details on the cloud service business model, please refer to the following whitepaper (in Chinese):
 https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf.
 
-Let's move to the next stage - [Planning Stage](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Planning/Guidance/Guidance.md).
+![navigation](/solutions/global-customer/media/navigation.png)
+
+Let's move to the next stage - [Planning Stage](/solutions/global-customer/planning/guidance/policies/).

@@ -1,6 +1,29 @@
-#Performance#
+<properties
+	pageTitle="Global Customer Playbook envisioning-explore-performance "
+	description="Global Customer Playbook envisioning-explore-performance"
+	services="global-customer-playbook"
+	documentationCenter=""
+	authors="jtong"
+	manager="edwinc"
+	editor=""
+	tags="global-customer-playbook"/>
 
-##The Great Firewall##
+<tags
+	ms.service="global-customer-playbook"
+	ms.workload=""
+	ms.tgt_pltfrm=""
+	ms.devlang="na"
+	ms.topic="article"
+	ms.date="11/21/2016"
+	wacn.date="11/21/2016"
+	ms.author="jtong"/>
+
+
+# Envisioning Explore - Performance
+
+[AZURE.INCLUDE [header](../envisioning-explore.md)]
+
+## The Great Firewall
 
 The effects of internet regulation in China - widely referred to as the 'Great Firewall' - can affect whether your website or any web services you provided on the Internet can be seen or used by your intended Chinese audience.
 
@@ -16,4 +39,6 @@ Since all network connectivity in or outside of China must go through the Great 
 
 If you want to know more about how server hosting may be impacted, please refer to [Service Hosting Options](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Guidance/Performance.md).
 
-Let's move to the next section - [Partners](https://github.com/Azure/AzureGlobalConnectionCenter/edit/master/PlayBook/Envisioning/Explore/Partners.md).
+![navigation](/solutions/global-customer/media/navigation.png)
+
+Let's move to the next section - [Partners](/solutions/global-customer/envisioning/explore/partners/).

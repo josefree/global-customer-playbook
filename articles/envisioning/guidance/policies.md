@@ -1,6 +1,29 @@
-#Policies#
+<properties
+	pageTitle="Global Customer Playbook envisioning-guidance-parity"
+	description="Global Customer Playbook envisioning-guidance-parity"
+	services="global-customer-playbook"
+	documentationCenter=""
+	authors="jtong"
+	manager="edwinc"
+	editor=""
+	tags="global-customer-playbook"/>
 
-##ICP Licenses##
+<tags
+	ms.service="global-customer-playbook"
+	ms.workload=""
+	ms.tgt_pltfrm=""
+	ms.devlang="na"
+	ms.topic="article"
+	ms.date="11/21/2016"
+	wacn.date="11/21/2016"
+	ms.author="jtong"/>
+
+
+# Envisioning Guidance - Policies
+
+[AZURE.INCLUDE [header](../envisioning-guidance.md)]
+
+## ICP Licenses
 
 According to the "Internet Information Services" regulation, the "non-commercial Internet information service record management" regulation, and the other regulations promulgated by the Ministry of China, the government has enforced all non-commercial Internet information services to strictly follow the ICP (Internet Content Provider) registration and filing process.
  
@@ -12,10 +35,12 @@ Sharing an ICP license is against government rules and regulations, meaning that
  
 Getting an ICP license is an additional step that is taken after you purchase your hosting and domain name, but before your site goes live. ICP license numbers are usually displayed in the small print in website footers, and should be displayed on your website at all times. Below is a sample of the ICP license number for China Azure displayed at the bottom of the home page.
 
-![Home](https://mncplaybook.azurewebsites.net/Content/Images/envisioning_guidance_policies.png)
+![Home](/solutions/global-customer/media/icp-license.png)
 
-##Data Auditing##
+## Data Auditing
 
 Based on your ICP registered domain and hosting location, MIIT and related governmental authorities should within their respective areas of responsibility, and according to the law, implement supervision and management of your Internet content. They reserve the right to audit your web site by examining your servers and data, at your actual hosting location and at any time if needed.
 
-Let's move to the next section - [Parity](https://github.com/Azure/AzureGlobalConnectionCenter/edit/master/PlayBook/Envisioning/Guidance/Parity.md).
+![navigation](/solutions/global-customer/media/navigation.png)
+
+Let's move to the next section - [Parity](/solutions/global-customer/envisioning/guidance/parity).
