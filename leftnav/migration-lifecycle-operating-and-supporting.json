@@ -109,23 +109,23 @@
 	"id": "leftnav_global-customer-playbook_operating-and-supporting-stage", 
 	"articles": 
 		[
-			{"link": "/solutions/global-customer/operating-and-supporting/explore/policies/", 
+			{"link": "/solutions/global-customer/operating-supporting/explore/policies/", 
 			"id": "leftnav_global-customer-playbook_operating-and-supporting-explore", 
 			"title": "Explore",
-			"links": ["/solutions/global-customer/operating-and-supporting/explore/policies/",
-				"/solutions/global-customer/operating-and-supporting/explore/parity/",
-				"/solutions/global-customer/operating-and-supporting/explore/performance/",
-				"/solutions/global-customer/operating-and-supporting/explore/partners/"]
+			"links": ["/solutions/global-customer/operating-supporting/explore/policies/",
+				"/solutions/global-customer/operating-supporting/explore/parity/",
+				"/solutions/global-customer/operating-supporting/explore/performance/",
+				"/solutions/global-customer/operating-supporting/explore/partners/"]
 			},
-			{"link": "/solutions/global-customer/operating-and-supporting/guidance/policies/", 
+			{"link": "/solutions/global-customer/operating-supporting/guidance/policies/", 
 			"id": "leftnav_global-customer-playbook_operating-and-supporting-guidance", 
 			"title": "Guidance", 
-			"links": ["/solutions/global-customer/operating-and-supporting/guidance/policies/",
-				"/solutions/global-customer/operating-and-supporting/guidance/parity/",
-				"/solutions/global-customer/operating-and-supporting/guidance/performance/",
-				"/solutions/global-customer/operating-and-supporting/guidance/partners/"]
+			"links": ["/solutions/global-customer/operating-supporting/guidance/policies/",
+				"/solutions/global-customer/operating-supporting/guidance/parity/",
+				"/solutions/global-customer/operating-supporting/guidance/performance/",
+				"/solutions/global-customer/operating-supporting/guidance/partners/"]
 			},
-			{"link": "/solutions/global-customer/operating-and-supporting/validate/", 
+			{"link": "/solutions/global-customer/operating-supporting/validate/", 
 			"id": "leftnav_global-customer-playbook_operating-and-supporting-validate", 
 			"title": "Validate"}
 		]

@@ -51,7 +51,7 @@
 	"child": {
 			"service": "migration-lifecycle-operating-and-supporting",
 			"title": "Operating and Supporting Stage",
-			"link": "/solutions/global-customer/operating-and-supporting/explore/policies/"
+			"link": "/solutions/global-customer/operating-supporting/explore/policies/"
 	}
   }
 ]
