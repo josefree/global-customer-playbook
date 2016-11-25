@@ -1,12 +1,12 @@
 [
   {
     "service": "global-customer-playbook",
-    "title": "Migration Playbook",
+    "title": "Global Customer Playbook",
     "link": "/solutions/global-customer/playbook-overview/"
   },
   {
     "service": "migration-lifecycle-envisioning",
-    "title": "Migration Playbook",
+    "title": "Global Customer Playbook",
     "link": "/solutions/global-customer/playbook-overview/",
 	"child": {
 			"service": "migration-lifecycle-envisioning",
@@ -16,7 +16,7 @@
   },
   {
     "service": "migration-lifecycle-planning",
-    "title": "Migration Playbook",
+    "title": "Global Customer Playbook",
     "link": "/solutions/global-customer/playbook-overview/",
 	"child": {
 			"service": "migration-lifecycle-planning",
@@ -26,7 +26,7 @@
   },
   {
     "service": "migration-lifecycle-onboarding",
-    "title": "Migration Playbook",
+    "title": "Global Customer Playbook",
     "link": "/solutions/global-customer/playbook-overview/",
 	"child": {
 			"service": "migration-lifecycle-onboarding",
@@ -36,7 +36,7 @@
   },
   {
     "service": "migration-lifecycle-optimizing",
-    "title": "Migration Playbook",
+    "title": "Global Customer Playbook",
     "link": "/solutions/global-customer/playbook-overview/",
 	"child": {
 			"service": "migration-lifecycle-optimizing",
@@ -45,11 +45,11 @@
 	}
   },
   {
-    "service": "migration-lifecycle-operating-and-supporting",
-    "title": "Migration Playbook",
+    "service": "migration-lifecycle-operating-supporting",
+    "title": "Global Customer Playbook",
     "link": "/solutions/global-customer/playbook-overview/",
 	"child": {
-			"service": "migration-lifecycle-operating-and-supporting",
+			"service": "migration-lifecycle-operating-supporting",
 			"title": "Operating and Supporting Stage",
 			"link": "/solutions/global-customer/operating-supporting/explore/policies/"
 	}

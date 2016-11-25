@@ -9,7 +9,7 @@
 	tags="global-customer-playbook"/>
 
 <tags
-	ms.service="global-customer-playbook"
+	ms.service="migration-lifecycle-operating-supporting"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
